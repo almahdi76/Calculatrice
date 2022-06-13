@@ -1,0 +1,37 @@
+body{
+	padding:0;
+	margin:0;
+}
+.contaner,.cont2{
+  display: flex;
+  justify-content: center;
+  border: 1px solid #c0c0c0;
+}
+div{
+	color:#0000a0;
+	font-size:20px;
+	padding:10px;
+	margin-top:20px;
+}
+
+h1{
+	text-align:center;
+}
+.s{
+	width:200px;
+	height:25px;
+	font-size:20px;
+	
+}
+
+.ss{
+	width:207px;
+	height:25px;
+	font-size:20px;
+	
+}
+
+#res{
+	padding-left:50px;
+	text-align:center;
+}
